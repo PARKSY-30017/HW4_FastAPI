@@ -1,0 +1,38 @@
+[
+  {
+    "course_name": "민사소송법",
+    "year": "2024",
+    "semester": "2",
+    "grade": "A0"
+  },
+  {
+    "course_name": "민법총칙",
+    "year": "2023",
+    "semester": "1",
+    "grade": "A+"
+  },
+  {
+    "course_name": "상법총론",
+    "year": "2024",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "행정법총론",
+    "year": "2025",
+    "semester": "1",
+    "grade": "A+"
+  },
+  {
+    "course_name": "채권총론",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A0"
+  },
+  {
+    "course_name": "형법총론",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A+"
+  }
+]
